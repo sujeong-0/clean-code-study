@@ -5,3 +5,7 @@
 - 1장 - [깨끗한 코드](https://github.com/devopenlibrary/clean-code-study/blob/main/chapter1-clean-code.md)
 - 2장 - [의미있는 이름](https://github.com/devopenlibrary/clean-code-study/blob/main/chapter2-meaningful-names.md)
 - 3장 - [함수](https://github.com/devopenlibrary/clean-code-study/blob/main/chapter3-function.md)
+- 4장 - [주석](https://github.com/devopenlibrary/clean-code-study/blob/main/chapter4-annotation.md)
+- 5장 - [형식 맞추기](https://github.com/devopenlibrary/clean-code-study/blob/main/chapter5-consistent-formatting%20.md)
+- 6장 - [객체와 자료 구조](https://github.com/devopenlibrary/clean-code-study/blob/main/chpater6-obejct-and-data-structure.md)
+- 7장 - [오류 처리](https://github.com/devopenlibrary/clean-code-study/blob/main/chapter7-error-handling.md)
