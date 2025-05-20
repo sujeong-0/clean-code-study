@@ -9,3 +9,6 @@
 - 5장 - [형식 맞추기](https://github.com/devopenlibrary/clean-code-study/blob/main/chapter5-consistent-formatting%20.md)
 - 6장 - [객체와 자료 구조](https://github.com/devopenlibrary/clean-code-study/blob/main/chpater6-obejct-and-data-structure.md)
 - 7장 - [오류 처리](https://github.com/devopenlibrary/clean-code-study/blob/main/chapter7-error-handling.md)
+- 8장 - [경계](https://github.com/devopenlibrary/clean-code-study/blob/main/chapter8-boundary.md)
+- 9장 - [단위 테스트](https://github.com/devopenlibrary/clean-code-study/blob/main/chapter9-unit-test.md)
+- 10장 - [클래스](https://github.com/devopenlibrary/clean-code-study/blob/main/chapter10-class.md)
